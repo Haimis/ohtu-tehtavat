@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ohtuesimerkki.StatisticsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-03-04T17:13:12" hostname="lx8-fuxi148" time="0.003">
+<testsuite name="ohtuesimerkki.StatisticsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-03-04T17:07:25" hostname="lx8-fuxi148" time="0.002">
   <properties/>
-  <testcase name="topScorerToimii" classname="ohtuesimerkki.StatisticsTest" time="0.002"/>
-  <testcase name="listTeamToimii" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <testcase name="topScorerToimii" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <testcase name="listTeamToimii" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
   <testcase name="searchToimiiJosPelaajaLöytyy" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
   <testcase name="searchToimiiJosPelaajaaEiLöydy" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
